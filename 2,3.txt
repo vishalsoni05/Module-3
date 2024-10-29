@@ -1,0 +1,57 @@
+Q2.What is OOP? List OOP concepts
+
+ANS:- OOP (Object-Oriented Programming) is a programming paradigm that revolves around the concept of objects and classes.
+It's a way of designing and organizing code to simulate real-world objects and systems.
+
+1. Inheritance
+
+- Creating a new class based on an existing class.
+- Child class inherits properties and methods from parent class.
+
+2. Polymorphism
+
+- Ability of an object to take multiple forms.
+- Method overriding or method overloading.
+
+3. Encapsulation
+
+- Hiding internal implementation details.
+- Accessing data through public methods.
+
+4. Abstraction
+
+- Showing essential features while hiding complexity.
+- Simplifying complex systems.
+
+
+Q3. What is the difference between OOP and POP?
+
+ANS:- OOP (Object-Oriented Programming) and POP (Procedural-Oriented Programming) are two fundamental programming paradigms.
+
+ Procedural-Oriented Programming (POP):
+
+1. Focuses on procedures or functions.
+2. Emphasizes step-by-step instructions.
+3. Data is shared among procedures.
+4. No encapsulation or data hiding.
+5. No concept of classes or objects.
+
+ Object-Oriented Programming (OOP):
+ 
+1. Focuses on objects and classes.
+2. Emphasizes data abstraction and encapsulation.
+3. Data is hidden within objects.
+4. Procedures (methods) operate on objects.
+5. Supports inheritance, polymorphism, and composition.
+
+Key differences:
+
+1. Organization: POP uses procedures, while OOP uses classes and objects.
+
+2. Data Handling: POP shares data globally, whereas OOP encapsulates data within objects.
+
+3. Reusability: OOP promotes code reuse through inheritance and polymorphism.
+
+4. Complexity Management: OOP helps manage complexity through abstraction.
+
+5. Modularity: OOP provides better modularity.
